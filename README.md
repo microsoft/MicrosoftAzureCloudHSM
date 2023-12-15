@@ -1,3 +1,3 @@
-# Microsoft Azure Cloud HSM SDK Private Preview
+# Microsoft Azure Cloud HSM SDK Preview
 
 
