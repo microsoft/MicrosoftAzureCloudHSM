@@ -1,25 +1,13 @@
-# TODO: The maintainer of this repo has not yet edited this file
-
-**REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
-
-- **No CSS support:** Fill out this template with information about how to file issues and get help.
-- **Yes CSS support:** Fill out an intake form at [aka.ms/onboardsupport](https://aka.ms/onboardsupport). CSS will work with/help you to determine next steps.
-- **Not sure?** Fill out an intake as though the answer were "Yes". CSS will help you decide.
-
-*Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
-
 # Support
 
-## How to file issues and get help  
+## How do I file production support incidents or get help? 
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing 
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
-feature request as a new Issue.
+All production incident support tickets for Azure Cloud HSM should be submitted through the Azure Portal under Help+Support. 
 
-For help and questions about using this project, please **REPO MAINTAINER: INSERT INSTRUCTIONS HERE 
-FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HELP. COULD BE A STACK OVERFLOW TAG OR OTHER
-CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
+The Azure Cloud HSM SDK uses GitHub issues solely for tracking bugs and feature requests specific to the SDK. It does not handle production live site support incidents. To avoid duplicates, please search existing issues before creating a new one. For new issues, submit your bug report or feature request as a new Issue.
+
+For help and questions about onboarding to Azure Cloud HSM or the Azure Cloud HSM SDK, please contact your Microsoft Account Manager. If you do not have an assigned Account Manager, please contact Microsoft Support.
 
 ## Microsoft Support Policy  
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+Support for the Azure Cloud HSM SDK are limited to the resources listed above.
