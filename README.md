@@ -9,6 +9,7 @@ The Azure Cloud HSM SDK currently only supports the following Operating Systems.
 | Windows Server (2016, 2019, 2022) | MSI | Installation AzureCloudHSM-ClientSDK-Windows-*.msi |
 | Ubuntu (22.04, 24.04) | DEB | AzureCloudHSM-ClientSDK-OpenSSL3-*.deb |
 | Ubuntu 20.04 | DEB | AzureCloudHSM-ClientSDK-*.deb |
+| RHEL 9 | RPM | AzureCloudHSM-ClientSDK-OpenSSL3*.rpm |
 | RHEL (7, 8) | RPM | AzureCloudHSM-ClientSDK-*.rpm |
 | CBL Mariner 2 | RPM | AzureCloudHSM-ClientSDK-*.rpm |
 
