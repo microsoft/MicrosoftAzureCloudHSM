@@ -31,6 +31,8 @@ Microsoft Azure Cloud HSM is most suitable for the following types of scenarios:
 - MSSQL/Oracle TDE (Transparent Data Encryption)
 - Document/File/Code Signing
 
+**Azure Cloud HSM supports certificate storage via PKCS#11.** The Azure Cloud HSM PKCS#11 library supports storing public key certificates as public objects, in accordance with the PKCS#11 v2.40. This capability is available starting with SDK version 2.0.2.0 and enables both public and private PKCS#11 sessions to create, retrieve, modify, and delete certificate objects.  
+
 **NOT SUPPORTED**  
 Microsoft Azure Cloud HSM does not integrate with other PaaS/SaaS Azure services. Azure Cloud HSM is IaaS only.
 
